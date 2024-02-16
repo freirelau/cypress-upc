@@ -11,11 +11,9 @@ git clone https://github.com/freirelau/cypress-upc.git
 
 ### Ejecución desde el directorio cypress-upc o dentro de la consola de Visual Studio Code, una vez abierto el proyecto
 
-- Para ejecutarlo visualizando el navegador Chrome: 
-	- npm run cypress:open
+- Para ejecutarlo visualizando el navegador Chrome: npm run cypress:open
 
-- Para ejecutarlo sin visualizar el navegador pero registrando el vídeo: 
-	npm run cypress:run
+- Para ejecutarlo sin visualizar el navegador pero registrando el vídeo: npm run cypress:run
 
 - seleccionar E2E Testing
 - seleccionar Start E2E Testing in Chrome
