@@ -5,6 +5,7 @@ Práctica SQA - Laura Martínez Freire
 
 ### Descarga del código
 Ejecutar un git clone del proyecto con vuestro usuario: (el repositorio es público)
+
 git clone https://github.com/freirelau/cypress-upc.git
 
 ### Ejecución desde el directorio cypress-upc o dentro de la consola de Visual Studio Code, una vez abierto el proyecto
